@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgba(36, 107, 137,.6);
+    overflow: hidden;
+    border-radius: .7rem;
+}
+.navbar-brand{
+    color:rgb(25, 80, 25)!important;
+    font-weight: bolder!important;
+}
+.navbar a{
+    font-size: 1rem!important;
+    text-transform: capitalize!important;
+    color:white!important;
+}
+.navbar a:hover{
+    font-weight: bold;
+}
